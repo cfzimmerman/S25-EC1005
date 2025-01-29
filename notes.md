@@ -1,4 +1,25 @@
-# Class 2: Economic growth
+# Class 2: Economic growth basics
 
-- Global life expectancy has been steadily growing. Only exceptions are Mao's Great Leap Forward and COVID.
-  - Lifespan increases are global and not isolated to rich countries.
+- Mortality:
+  - Global life expectancy has been steadily growing. Only exceptions are Mao's Great Leap Forward and COVID.
+    - Lifespan increases are global and not isolated to rich countries.
+  - Life expectancy has a log relationship with GDP per capita (each income doubling adds about four years).
+- Nutrition:
+  - Mortality for <5 years old has dropped substantially since WWII, likely due to nutrition.
+  - Log relationship between calories available and child mortality.
+- Other:
+  - American work week fell from ~70 hours to ~40 hours per week from 1820 to 1940 but has held flat since.
+    - Surprising that work week has not decreased as living standards have increased.
+  - Huge shift from farming to other (mostly services, also construction). A smaller rise and fall in manufacturing (peak in WWII).
+    - Similar change in working conditions. Fraction of workforce in "disagreeable jobs" has fallen from 63% in 1870 to 3.1 in 2009.
+  - More and different goods and services consumed. We now spend more on things that didn't exist in 1869 than did.
+    - Seasonality: up to WWII, electricity use peaked in winter and cut in summer. Summer drop because factories shut down due to heat. Now opposite, peak in summer due to air conditioning.
+    - What's the value of novelty and variety? Economists don't say much about novelty, but there's a great preference for variety (ex. Sears Roebuck)
+  - Growth is intimately temporal, growth rates differ substantially. Winners, China and Japan. Counterexample is Argentina, which totally lost pace with other western countries since WWII.
+    - Growth over time makes it hard to accurately value new, improved, or higher quality goods.
+      - Ex. Up to 1925, the commerce department attributed price changes in cars ONLY to inflation (not quality improvements). Messes up inflation estimates. Getting inflation wrong (due to quality change valuations) means measuring growth wrong.
+      - Growth estimates may also miss goods that aren't priced (access to information is likely more valuable than just Google Ad revenue). Airplane safety is another example.
+  - Just because economic growth has happened doesn't mean it will happen in the future.
+    - US growth rate now is meaningfully lower now than before GFC (worst downturn since Great Depression). 1960 to 2007 line is totally different than since then (was much higher).
+    - Inflation adjusted, 2007 median family income was $87k v 2023 at $101k. Using 1960-2007 trend estimates 2023 income of $125k. Nationally, a difference of $6.9 trillion
+  - Even within a country, not everyone participates or benefits equally (at all) in economic growth.
