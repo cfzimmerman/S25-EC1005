@@ -23,3 +23,57 @@
     - US growth rate now is meaningfully lower now than before GFC (worst downturn since Great Depression). 1960 to 2007 line is totally different than since then (was much higher).
     - Inflation adjusted, 2007 median family income was $87k v 2023 at $101k. Using 1960-2007 trend estimates 2023 income of $125k. Nationally, a difference of $6.9 trillion
   - Even within a country, not everyone participates or benefits equally (at all) in economic growth.
+
+# Class 3
+
+- Factors of production:
+  - Labor, human capital, physical capital
+    - Combined with technology
+    - Focus on increases in factors of production and improvements in technology
+  - Land is a critical but fixed. Why doesn't it matter?
+    - Green revolution in agriculture showed we can get more from the same land.
+    - If the earth's population grows indefinitely, the fixed supply of land might become an issue but not for a long time.
+  - Malthus focused on land as a fixed/limiting factor of production. Was concerned we'd have enough to eat.
+    - Solow (what we use) considers economic production as unlimited. No fixed factor of production.
+- What determines growth in factors of production, and what affects change in techology:
+
+  - Labor:
+
+    - Age structure. What is working age?
+      - Child labor basically vanished by WWII.
+      - Retirement rates peaked around 1980 and have risen since.
+    - Who works? (among those the right age)
+      - Demographics: Women reached near-male labor force participation rate by 1990.
+      - Age: Since 2000, the labor force participation rate among working age people has fallen from ~67 percent to ~62 percent.
+    - How long:
+      - Economics: how much people work (wages, tax rate, education, cultural norms)
+        - Americans don't work more per year than the world aggregate, but we work more than other rich countries.
+
+  - Human capital:
+
+    - Education builds human capital (public and private).
+      - 1900s established near universal high school eduction in the US.
+        - GDP per capita is highly correlated with years of schooling. (goes both ways)
+        - Wages relate to both raw labor and human capital, and the distribution varies substantially. (even in developing countries, payments to human capital are about 2/3)
+      - On the job training, public retraining programs
+      - Culture: whether society promotes or denigrates applicable education. Quantity and quality matter (not all high schools or colleges are the same)
+        - American universities underperform peers both at the top 200 and across all quartiles.
+        - Almost 3/4 of Chinese universities would be in the top quartile of American universities.
+        - But most developing countries still underperform the US. (disadvantage on both quantity and quality)
+
+  - Physical capital:
+    - Human capital is correlated with GDP per capital (both ways)
+    - Determinants:
+      - Profitability of investment versus cost of financing
+      - Legal institutions, safety and security, property rights. Factors of production are correlated with rule of law.
+      - Culture of entrepreneurship
+      - Quality and quantity - allocation matters too
+    - Investment is a dynamic problem with incurs cost now for returns later, which is uncertain.
+      - Decisions consider up front costs, size and time profile of anticipated returns, and discount rate.
+    - Uses of US economic production:
+      - 68 percent is private consumption, 17 percent is government, and 18 percent is investment
+      - US investment rate is low, why not let the market decide?
+        - Private returns differ from social returns, especially on human capital (ex. subsidized education, Morill Act colleges, high schools in the 1900s, pell grants)
+          - Similar for physical capital: national defense, public infrastructure (ex. Erie canal was a huge win for upstate NY, railroad networks, airports), material research, liquidity constraints (for education), constraints on market imperfections?
+    - Factor accumulation v. technology:
+      - Over time, differences in the growth of technology have overpowered growth in labor, human capital, and physical capital. Likely to continue.
