@@ -77,3 +77,41 @@
           - Similar for physical capital: national defense, public infrastructure (ex. Erie canal was a huge win for upstate NY, railroad networks, airports), material research, liquidity constraints (for education), constraints on market imperfections?
     - Factor accumulation v. technology:
       - Over time, differences in the growth of technology have overpowered growth in labor, human capital, and physical capital. Likely to continue.
+
+# Class 4
+
+- Factor accumulation v. technology?
+  - Technology dominates factor accumulation. "Great divergence". Explains rapid growth in 1950s - 1990s.
+  - What drives TFP? (total factor productivity)
+    - Catch up versus frontier growth? (other countries can adopt successful technologies - examples are Japan and China)
+    - Incentives for invention and innovation
+    - Ease or difficulty of making new advances
+    - Protection of intellectual property (patents)
+      - US scores very high on productivity relative to rule of law. (productivity and rule of law have two way causality)
+- Population growth
+  - Population has spiked since industrial revolution (massive change)
+    - World population now expected to peak before 2100. Peak estimate keeps coming down
+    - Does population growth increase per capital output? Depends on dependency rates (old v. young) and required investment (education when young and physical capital to work with when working age). Investing in young people drives the economy forward, which offsets dependency drag.
+    - Does output per capita affect population growth? Yes, negatively. Rich countries have much lower fertility.
+      - Fertility dropped from 1850 to 1940, spiked after WWII, and then fell again until now. Developed countries are expected to shrink the rest of the century, African countries make up most of the growth.
+      - Malthus was wrong twice. (1) didn't see agricultural productivity growth, and (2) didn't see people voluntarily having fewer children. Expected the only force against population growth to be starvation.
+  - Percentage of population in extreme poverty has fallen sharply since the mid 1900s. (~9 percent now)
+    - Solution to population concerns is growing per capita income. Improving healthcare and educating women.
+- Consequences
+  - Does economic growth make individuals, society, and the environment better off?
+  - Individuals
+    - Life expectancy improves with economic growth
+    - "Social progress" and "welfare" indexes look about the same
+    - Are people happier or more satisfied with their lives?
+      - Self-reported happiness may be log correlated with mean income. Counter argument is that difference between poor and not poor matters a lot more than not poor and rich.
+        - Kahneman: Happiness increases linearly with income for people who are already happy, stays about flat for people who are already unhappy. Diminishing marginal happiness with income doesn't necessarily follow the data.
+      - Cross section: Happiness across countries seems to scale log with income.
+        - Evidence at a single time within a single country suggests more income makes people happier.
+      - Time series: No correlation.
+        - No trend over time in a single country between GDP and happiness.
+      - In 1960, there didn't seem to be a big difference in happiness between countries despite income. US was a high outlier, Dominican Republic was low outlier.
+        - Recent evidence looks way different. 1984, 2005, 2010 data puts a clear correlation between GNP and happiness. TV could explain this.
+        - Diminishing marginal utility of income doesn't pass Kahneman data.
+        - Habit formation? Today's living standard v. previous experience?
+        - Social preferences. My living standard relative to that of others.
+        - Positional goods: scarce goods where part of the value is having the scarce thing.
