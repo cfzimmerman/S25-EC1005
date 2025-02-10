@@ -115,3 +115,51 @@
         - Habit formation? Today's living standard v. previous experience?
         - Social preferences. My living standard relative to that of others.
         - Positional goods: scarce goods where part of the value is having the scarce thing.
+
+# Class 5
+
+- Readings
+  - Nordhaus: focus on social cost of carbon, more relates economic growth and climate
+  - Cohen: population biologist
+  - Grossman and Krueger: relationship between economic growth and pollution
+  - Bilal and Kanzig: recomputes Nordhaus social cost of carbon but much higher result
+- Does economic growth make society better off?
+  - Recap: Within a country, people don't say they're much happier on average than in the past. Between countries has changed substantially (effect of TV)
+  - Summary:
+    - Sustained increases in living standards generally improve political, social, and moral quality
+    - Sustained stagnation tends to produce lack of improvement and reversals
+  - What forms of social/political/moral improvement?
+    - Access to opportunity (climb social/economic rank)
+    - Tolerance of differences (racial, religious, etc.)
+    - Generosity (helping people who can't take advantage of available opportunities)
+    - Democracy (creating, preserving, or strengthening democratic institutions)
+  - Why is it growth and not level of living standards that matters?
+    - Drivers of happiness/satisfaction:
+      - My standard of living
+      - My standard of living compared to the past (economic growth)
+      - My standard of living compared to others (Lake Wobegon)
+    - Consider if the second two are much more important than the first (comparison rules) and that they're substitutes.
+      - If everyone is living better than they were in the past, they feel less need to compare with others
+    - Case: attitudes towards immigrants
+      - 1850s: Know-Nothing riots were anti-immigration (against Germans and Irish)
+      - 1860s - 1870s: Relatively welcoming after Civil War
+        - 3.7 percent mean income growth
+      - 1880s - 1890s: Widespread anti-immigrant agitation (against Italians, Poles, Russians)
+        - -0.2 percent mean income growth
+      - 1900s - WWI: Inviting and Americanizing immigrants (Americanization through widespread high school education)
+        - 2.6 percent mean income growth
+      - 1920s - 1930s: Strong anti-immigration legislation (pro protestant, anti Catholic, Orthodox, Jewish)
+        - 1 percent mean income growth (before depression), 0.1 percent 1929 - 1940
+      - 1960s: Immigration reform and liberalization
+        - 3 percent median income growth
+      - 1980s: Pushback against liberalization
+        - 0.2 percent median income growth
+      - 1990s: Disagreement largely disappeared
+        - 2.3 percent median income growth
+      - 2000s: Growing resentment, bitter campaign issue and legislation
+        - 0.8 percent median income growth
+    - Strong correlation between immigration sentiment and economic growth. Many other examples could have been chosen.
+    - Ex: Percent of children earning more than their parents at 35 has fallen steeply since 1940 (about 50 percent for born in 1984)
+    - What if the societal consequences of rising living standards are also conducive to economic growth? (two way causation)
+      - Economic growth leads to opportunity, tolerance, generosity, democracy, which lead to economic growth
+      - Economic stagnation causes political/social rigidity, which hinders economic growth
