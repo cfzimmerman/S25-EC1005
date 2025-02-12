@@ -163,3 +163,43 @@
     - What if the societal consequences of rising living standards are also conducive to economic growth? (two way causation)
       - Economic growth leads to opportunity, tolerance, generosity, democracy, which lead to economic growth
       - Economic stagnation causes political/social rigidity, which hinders economic growth
+
+# Class 6: Anna Russo (economic growth <-> physical environment)
+
+- Economic activity and the environment are intertwined
+  - Climate change indicates a market failure (emissions, pollution, natural catastrophe)
+  - Role for policy in mitigation and adaptation
+- History of environmental economics
+  - Pigouvian corrective tax
+    - Pigou noticed "heavy uncharged cost" of pollution in London in the 20th century
+    - "social and private net product at the margin diverge"
+    - Proposed subsidy or tax to offset imbalance
+    - Recognized shortfalls:
+      - Difficult to calculate what the transfer should be
+      - Interferes with freedom of choice
+    - Today, about 13 percent of gas emissions are priced via carbon tax or cap and trade
+- Economic activity and the environment
+  - Economic growth is correlated with carbon emissions: https://en.wikipedia.org/wiki/Our_World_in_Data
+  - Ex: economic loss of forest destruction is not calculated, but economic benefit to farming or logging is
+  - Economic growth in catch-up economies:
+    - Russo:
+      - "Solution is massive transfers to help support sustainable growth."
+      - "Innovate here and transfer there"
+      - "In some ways geopolitically intractable"
+  - Mortality estimates puts greatest climate change cost: https://impactlab.org/research/valuing-the-global-mortality-consequences-of-climate-change-accounting-for-adaptation-costs-and-benefits/
+    - The regions most harmed are pretty different from the most developed areas.
+- Mitigation policy
+  - Carbon is not taxed directly, but there are many "second best" instruments motivated by measurement, limited jurisdictions, and redistributive concerns
+  - "Second best" instruments have dramatically varying performance. Ex: the value of $1 on EV subsidy, wind subsidy, forest conservation in Brazil
+  - Further market failures: innovation/investment isn't pricing environmental externalities
+- Ex: flood risk
+  - On average, flooding is the most expensive natural disaster.
+  - Premise: areas at risk of flooding are growing rapidly compared to others.
+  - Does corrective policy have a role with Florida?
+  - If individuals internalize the full benefits and costs of where they live, this is not an issue.
+    - But most consumers don't bear the full cost of living in a risky area.
+    - National Flood Insurance Program
+  - Policy intervention: designate high risk areas as floodzones and regulate the
+    - Supply: mandate flood safe building standards, regulate construction
+    - Demand: insurance required, housing is more expensive (>2x higher premiums), consumers are informed of risk
+  - Outcome? Florida example:
