@@ -202,4 +202,51 @@
   - Policy intervention: designate high risk areas as floodzones and regulate the
     - Supply: mandate flood safe building standards, regulate construction
     - Demand: insurance required, housing is more expensive (>2x higher premiums), consumers are informed of risk
-  - Outcome? Florida example:
+  - Outcome? Florida example
+
+# Class 7: Impact of Economic Growth on the Physical Environment
+
+- Negative externality
+  - (Supply and demand): demand X, price Y
+  - There may be unpriced external cost implicit in the equilibrium. Market price may be lower than optimal cost.
+- Environmental concerns about economic growth
+  - Pollution (1960s - 70s): dirty air and water
+    - Air carbon monoxide, nitrogen dioxide, ozone, and particulate matter have decreased in the US since the 80s
+    - Polluted water has also fallen in the US since the 80s
+    - Lots of investment; emissions standards on vehicles have gotten much tighter
+  - Physical limits (1970s - 80s): running out of oil and other commodities
+    - OPEC oil price increases motivated this
+    - Promoted by "club of Rome" / Dennis Meadows. (Maybe misguided because markets are well tuned to handle scarcity)
+  - Species extinction (1990s - present): what implications does extinction have for economic growth?
+    - Not well covered in economic literature. Often seen as more of a moral issue.
+    - Unsure, maybe this also follows the environmental Kuznets curve?
+  - Climate change (1990s - present)
+    - Clear science, problem is getting worse, some progress
+- Environmental Kuznets Curve
+  - Pollution / living standard looks like a bell curve. Highest living standard has low pollution, but mid living standard has high pollution.
+- Climate change
+  - Situation:
+    - Energy consumption per capita is roughly log linear with GDP. Developing countries will pump energy demand.
+    - Ex: refridgeration and air conditioning use a ton of energy
+    - Developing countries rely almost entirely on fossil fuels (currently 88%)
+    - India mostly uses coal
+    - Orders of magnitude more global investment in green energy
+      - Massive (400:1 $/KwH) drop in PV solar prices since 1970s
+      - Global CO2/GDP has fallen consistently since the 1960s
+    - Nordhaus optimal suggests ~560 PPM (+2.5 deg C) from current ~420 PPM
+  - Costs:
+    - Reduced production / forgone output
+    - Investments required for adaptation (air conditioning, flood control)
+    - Greater health issues
+    - Relocating people and infrastructure
+- Why hasn't the environmental Kuznets curve kicked in?
+  - Magnitude of investment required
+    - Reducing emissions is expensive and so is adaptation
+  - Long time horizon
+    - Don't see near term payoff from investment (discount rate really matters)
+- Social cost of carbon:
+  - How much would someone pay to prevent you emitting carbon?
+  - How much would you pay for the license to emit carbon?
+- Complications:
+  - Technological uncertainty: nuclear fusion, colonization, etc
+  - Tail risk: collapse of major ice caps, unstoppable feedback loops
