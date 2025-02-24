@@ -250,3 +250,34 @@
 - Complications:
   - Technological uncertainty: nuclear fusion, colonization, etc
   - Tail risk: collapse of major ice caps, unstoppable feedback loops
+- Environmental Kuznets curve has worked well for air and water, why not climate?
+  - Magnitude: Climate investments needed are huge
+  - Time: Payoffs are far in the future, discount rate matters a lot
+  - Governance: Global scope of externality vs absence of global governance
+  - Strategy: Environmental advocates have made counterproductive mistakes
+    - Opposition to nuclear power
+    - Focus on distributional "justice" (reduced relevance to developed world voters)
+    - Opposition to modernity and economic growth (legacy of Henry David Thoreau)
+- Bilal-Kanzig estimates additional 2 degree C effects
+  - 46 percent reduction in GDP, 37 percent reduction in capital stock
+  - Claims world GDP is already 19 percent lower than without warming
+  - Estimates social cost of carbon at $1300/ton
+  - Nordhaus estimates a 3.1 percent difference in world GDP. More than order of magnitude.
+- Discount rate really affects concern about climate change
+
+# Class 8: Role of changing technology
+
+- Basics:
+  - Technology isn't new, and most isn't very "high tech". Fire, agriculture, wheel, electricity, aviation, transistor, internet, etc.
+  - Technology has profound affects on growth, longevity, consumption, etc.
+    - Ex: water treatment on mortality, green revolution on undernourishment
+    - Work: less physical labor, less work accidents, fewer unpleasant or boring jobs
+  - Economic awareness of technology's impact on growth is fairly recent
+    - Francis Bacon got it in early 1700s
+    - Adam Smith argued labor specialization was key to growth in 1776
+    - Francis Wayland got it in 1837
+  - Technology can have unwanted side effects (nuclear war, car crashes, phone addiction, etc)
+  - Technology's benefits are not equally distributed
+    - Ex: tractors improved farm productivity, need fewer farmers
+  - Technology has unexpected consequences on world history
+    - Ex: printing press enabled the protestant reformation, europeans discovering America, Union victory in the Civil War
