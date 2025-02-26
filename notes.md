@@ -280,4 +280,43 @@
   - Technology's benefits are not equally distributed
     - Ex: tractors improved farm productivity, need fewer farmers
   - Technology has unexpected consequences on world history
-    - Ex: printing press enabled the protestant reformation, europeans discovering America, Union victory in the Civil War
+    - Ex: printing press enabled the protestant reformation, Europeans discovering America, Union victory in the Civil War
+
+# Class 9: continued
+
+- Great divergence
+  - TFP growth in developed countries is much higher.
+    - Productivity across firms is widely distributed. Top firms are more productive, more profitable, and pay more.
+    - Ex: Top 7 in S&P 500 make up 30 percent because they're often much more productive (higher TFP)
+    - Long run standard of living is intimately tied to TFP
+  - If all countries share the same technology, why aren't they all equally productive?
+    - Differences in technology usage:
+      - Extensive margin: speed of adoption (are they using it at all)
+        - Ex: hybrid corn seed adoption validated adoption speed
+      - Intensive margin: intensity of use (how much)
+        - Ex: computer usage depended more on how much they're used
+        - Adoption lag between technology introduction and adoption has come down sharply since 1800 and strongly favored western countries.
+          - Gap between western and non western countries is largely disappearing (making adoption speed less credible).
+          - But intensity of use between western and non wester countries is widening
+    - Why is intensive margin so important?
+      - Possibly related to economic openness in trade and investment. (big advantage)
+      - Good relationship between national income and bureaucratic efficiency, lack of corruption, trust in strangers (civic capital)
+- Questions about America's future
+  - What are the prospects for American living standards?
+    - Since 2008, American income growth has fallen seriously off track. Productivity growth has fallen, so has hours worked.
+      - After WWII, productivity growth was strong. Fell during the 80s. Rose up to the 2000s. Fell since 2002.
+    - Pessimistic: why would slow productivity growth continue?
+      - Robert Gordon: no more first magnitude advances (steam power, electricity, internal combustion, power aviation, electronic communication)
+      - Nicholas Bloom: technological advances are becoming harder to achieve. Ex - U.S. TFP growth doesn't seem related to the total number of American researchers (research productivity has fallen)
+      - Potential responses: R&D incentives, government research, investment incentives, education, more H1B visas
+    - Optimistic:
+      - Erik Brynjolfsson: electronic technology has a frontier in robotic manufacturing, robotic surgery, driverless cars, voice recognition, nuclear fusion
+  - What are the prospects for American jobs?
+    - Distinction: Is tech a substitute (labor no longer needed) or complement (amplifies productivity) for labor?
+      - Negative:
+        - Either way, there's less demand for human labor to accomplish any given set of tasks.
+        - Increasing tradability of goods and services, including high wage services
+        - Use of immigrant labor for services that must be performed on site
+      - Positive:
+        - More labor needed as complimentary technologies arise. Some previously uneconomic activities become worthwhile (ex. computers enabling mutual funds, credit cards, etc.)
+        - More labor needed to supply goods and services for increased demand
