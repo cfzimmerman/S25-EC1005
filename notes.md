@@ -320,3 +320,57 @@
       - Positive:
         - More labor needed as complimentary technologies arise. Some previously uneconomic activities become worthwhile (ex. computers enabling mutual funds, credit cards, etc.)
         - More labor needed to supply goods and services for increased demand
+
+# Class 10: continued
+
+- Employment v non-work
+  - Standard consumption/labor model:
+    - Assume what people desire in life.
+    - Balance the utility of consumption and leisure.
+    - Leisure is any time not working.
+    - Working diminishes utility because it sacrifices leisure. Work may also be unpleasant.
+    - But work also enables consumption.
+  - However, this assumes working affects utility negatively:
+    - What if work is pleasant or rewarding? So much that it outweighs loss of leisure? To the point of making leisure boring?
+    - Standard model doesn't accommodate this.
+    - Research indicates people with jobs tend to be happier
+- Technological unemployment
+  - History
+    - Jean Baptiste Say: people who lose jobs due to technology need to be helped into new roles.
+    - David Ricardo: productivity growth is good, but making people redundant is not.
+  - Keynes' technological unemployment
+    - Output per capita would increase between 4x and 8x over the next 100 years
+      - But median income is much further off. Closer to 4x.
+    - Rate of technical progress is faster than the labor market can absorb
+    - Implies decline in labor to 15 hrs/week. How was Keynes right about output but not labor?
+      - Underestimated demand for new goods v. leisure
+      - Didn't foresee widening income inequality
+  - Acemoglu demand for labor composition
+    - Effects:
+      - Displacement: less labor needed in old tasks that become automated
+      - Productivity: more labor needed for old tasks not automated
+      - Reinstatement: more labor needed for new tasks not automated
+    - Findings:
+      - 1940s - 1980s: strong productivity effect. Labor capturing most value. Reinstatement and displacement offset eachother.
+      - 1980s - 2020s: labor bill less than productivity effect. Stronger displacement than reinstatement effect.
+        - Even stronger in manufacturing. +10% reinstatement, -35% displacement
+      - Displacement effect is becoming stronger, and the reinstatement effect is becoming weaker. Unfavorable for labor.
+  - Autor on new work
+    - Two kinds of innovation: automations (less demand for labor, old work), augmentations (more demand for labor, new work)
+      - Different occupations are exposed to these differently
+      - Most labor expansion since WWII is in new work
+    - Most new job creation has been polarizing (high and low wage jobs replacing middle wage jobs)
+      - Polarization is strongest for workers without a college degree
+      - Over time, more automating and fewer augmenting innovations
+  - Wage growth inequality matches unemployment.
+    - Less educated people with lower average wages are more likely to be unemployed.
+    - Will AI make a difference?
+      - AI has an extremely fast rate of adoption.
+      - 39 percent of working age adults were using gen ai at least weekly in recent study
+      - Job exposure to AI seems to peak in the middle of the income distribution
+- Quality of people's jobs: deskilling
+  - In most states, driving a vehicle is currently the best option to earn a decent salary. (similar to manufacturing in the 1960s)
+    - Ex: delivery skill level will go down as people don't need to drive, plot their route, etc. Just move package to door.
+    - Ex: fast food is just moving something from a machine to a person.
+    - Prediction: some jobs will be more productive, interesting, and satisfying. Many will be less.
+  - Likely outcome: not much technological unemployment, deskilling, widening of wage differentials, and wider education-based segmentation
