@@ -374,3 +374,52 @@
     - Ex: fast food is just moving something from a machine to a person.
     - Prediction: some jobs will be more productive, interesting, and satisfying. Many will be less.
   - Likely outcome: not much technological unemployment, deskilling, widening of wage differentials, and wider education-based segmentation
+
+# Class 11: Economic Growth and Income Inequality
+
+- What is unequal across individuals?
+  - Personal attributes: health, intelligence, attractiveness
+  - Economic attributes: income, wealth, skills, risk aversion
+  - Social attributes: social status, political influence
+- Income
+  - What is income?
+    - Cash income from work, assets owned, pension
+    - Cash transfers from the government
+    - Income in kind from government, churches, charities (food, healthcare, subsidized housing, education)
+  - What do we care about?
+    - Before or after tax income?
+    - Before or after transfer income?
+      - Divergence in pretax income, fairly flat difference in after tax income
+    - Or maybe ability to consume?
+      - High earners tend to save more, so consumption has stayed pretty flat
+- Wealth
+  - What is wealth?
+    - Financial assets
+      - $118 trillion
+    - Real estate and other tangibles
+      - $45 trillion
+    - Minus liabilities owed
+      - -$20 trillion
+    - Often omitted but much more equally distributed:
+      - Pensions owed
+        - Social Security present discounted value is $96 trillion
+      - Medical insurance
+        - Medicare A only is $42 trillion
+      - Education
+        - BA premium of $65k/year gives a present discounted value of $35 trillion
+- Basic inequality
+  - Income distributions are always skewed to the right
+  - Wealth is more unequally distributed than income
+  - Distributions of income and wealth are positively correlated
+    - Saving rate is much higher for higher earners
+  - Assortative mating makes family distributions are even more skewed than for individuals
+    - Growing share of couples where both have a college degree
+- Measuring inequality
+  - Compare distribution ratios (ex. 90th percentile to 50th percentile)
+  - Compare share going to specific groups (ex. top 1 percent, bottom quintile)
+  - Gini Coefficient
+    - x axis: percent of population
+    - y axis: percent of income
+    - Lorenz Curve shows actual income by population
+    - Gini coefficient is the area between the Lorenz curve and the line of perfect equality.
+  - Each of these measures is subject to arbitrary specifics of definition and scope
