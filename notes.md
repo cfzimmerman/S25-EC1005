@@ -423,3 +423,4 @@
     - Lorenz Curve shows actual income by population
     - Gini coefficient is the area between the Lorenz curve and the line of perfect equality.
   - Each of these measures is subject to arbitrary specifics of definition and scope
+    - Ex: measure families or individuals (children have low/no income)
