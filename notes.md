@@ -424,3 +424,32 @@
     - Gini coefficient is the area between the Lorenz curve and the line of perfect equality.
   - Each of these measures is subject to arbitrary specifics of definition and scope
     - Ex: measure families or individuals (children have low/no income)
+
+# Class 12: Inequality today
+
+- Income inequality is widening substantially in the US
+  - Spiked in the 1980s, flatter since the 1990s
+  - Labor income inequality is the driver for the overall population (grown much faster for high earners than low earners)
+  - High earners also tend to have better working conditions (unmeasured perks tend to magnify earning differences)
+- Race and sex matter, but differentials are not widening.
+  - Earnings: asian > white > hispanic > black
+  - Wealth: asian > white > hispanic == black
+  - Men tend to earn more than women, but the difference is shrinking
+- The skill/education gap is widening
+  - People are increasingly more rewarded for education and skills
+  - Higher education prime aged men are much more likely to work than those with a high school degree
+  - Household net worth is closely tied to educational attainment
+- Share of total income accruing to capital is widening
+  - Cobb-Douglas production function (sus) assumes labor and capital accruals are equal
+  - Labor share (GDP to workers) has fallen consistently in the past century
+  - The recent increase in inequality is fractal (no matter how close you look in the upper part of the distribution, it's still skewed)
+- Inequality differs across countries (Europe has the least inequality, middle east has the most)
+  - US has the highest Gini coefficient in the OECD
+  - Inequality is widening in other countries too, especially high income countries
+    - Biggest difference is hollowing out the middle, wages pushed towards high and low
+  - Capital/labor share is shifting elsewhere too
+  - Implication: US-specific explanations aren't very persuasive because inequality is widening almost everywhere
+  - World inequality has changed from widening to narrowing
+- Why does inequality matter?
+  - Moral concern of sharply difference income for similar work
+    - Pro sports example? Seems totally fine.
