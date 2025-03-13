@@ -453,3 +453,47 @@
 - Why does inequality matter?
   - Moral concern of sharply difference income for similar work
     - Pro sports example? Seems totally fine.
+
+# Review section
+
+- Growth
+  - Factors of production: labor supply, capital accumulation and investment, total factor productivity
+  - Structural determinants: demographic and population,
+- Readings:
+  - Growth:
+    - Smith: private education was historically higher quality. Hyper specialized labor may be demeaning but more productive.
+    - Easterlin: Higher personal income is associated with higher happiness within a country, but higher national income does not necessarily mean higher average happiness (sus?). Performance relative to peers.
+    - Okun: Efficiency/equity tradeoff, tensions between market driven stratification and democratic egalitarianism. Society keeps certain rights off the market, but we let the market handle healthcare and housing. Low cost rights are more likely to be enforced than high cost rights. Democratic capitalism necessitates continuous recalibration between competing values.
+    - Hirsch: Difference between growth and flourishing. After material scarcity is eradicated, positional scarcity is a more contended good. When we don't fight for food, we fight with eachother for status symbols that might not improve wellbeing.
+    - Sacks et. al: Contradicts Easterlin. Argues absolute income does matter.
+    - Deaton: Great divergence.
+    - Phelps: Economic prosperity arises from agents innovating. Top down approaches don't work. Governments should have flexible markets, low poverty, and accessible capital.
+    - Martellini:
+  - Environment:
+    - Externalities: certain actions cause harm to other people. Pigouvian taxation shifts costs to producers.
+    - Environmental Kuznet's curve: Flat n shape. x is income, y is environmental degredation.
+    - Malthus: economic growth is capped by land and therefore food because of famine, disease, and war.
+    - Solow: Sustainability allows future generations to have the same or better quality of life. Use human-made capital substitutes for natural capital.
+    - Grossman and Kreuger: Environmental Kuznets curve.
+    - Nordhaus: Climate change is a global externality. Risk of free riding because no country is incentivized to lead. Calculates social cost of carbon. Climate change is a global public bad: nonrival and nonexcludable.
+    - Cohen: Responds to Malthus that there isn't a clear carrying capacity limit for Earth.
+    - Nordhaus: Environmental economics is about addressing market failures. Match level of governance for level of problems.
+    - Bilal and Kanzig: Extends Nordhaus model with more data for a much higher social cost of carbon.
+  - Technology:
+    - Growth, how it will affect the future, labor market impact
+    - Keynes: rejects to concerns about technological unemployment. Transition between economic eras. Growth engines will continue, living standards will 4x to 8x. Compound interest in capital and accelerating TFP (scientific progress). Post scarcity world may decouple growth and flourishing because people don't know what to do
+    - Brynjolfsson: technology will make us grow, exponentials.
+    - Autor (2015): technological advancement changes what people work on rather than automating them away. Significant shifts in occupational composition. Technological change divides the labor force by human capital / skills. We know more than we can tell (contextual judgement). Ex: computers increased the college wage premium, hollowed the middle.
+    - Acemoglu and Restrepo: model for balancing investments in labor and capital. Technology can automate or augment labor. Traditionally there was more augmentation, there's increasingly more automation.
+    - Mokyr: Era of sustained growth after 1750 from innovation, better institutions, and resource allocation. Positive feedback loops in growth. Traditional productivity metrics understate recent progress.
+  - Inequality:
+    - How we measure it: compare income distributions (90th percentile v 10th percentile); wealth shares (wealth owned by 1%), Gini Coefficient (x percent of population, y percent of income). 0 Gini is perfect equality, 1 is perfect inequality.
+    - Kuznets: curve x GDP per capita, y income inequality (sus?). Inequality increases before it decreases during growth. Stronger past evidence, less modern evidence.
+    - Williamson: does industrialization raise inequality? Historical context. Could Kuznet's curve work?
+    - Piketty: documents that inequality has risen in the US by a lot since the 1980s. Focus on return on capital rather than just income. Periods of higher return on capital over economic growth increases inequality. Self reinforcing cycle of inheritance. Inequality is political (capital taxes are lower than labor taxes)
+    - Chetty: do we care about absolute inequality or inequality of opportunity? Socioeconomic economic mobility is related to place.
+    - Bell: Links childhood factors with who becomes a successful inventor. Increasing opportunity matters a lot for improving economic growth. High skill low income children rarely become inventors.
+    - Burkhauser: We should focus more on poverty than inequality, and poverty is looking a lot better. Defines poverty measure including noncash benefits. Follows increase in government transfers. Poverty measures reflect researcher judgements.
+    - Case and Deaton: Possible decoupling between growth and happiness. Increasing "deaths of despair" among white Americans without college degrees.
+    - Autor (2024): AI might be beneficial for the working class.
+    - Banerjee and Duflo: instead of broad theories, focus on ...
