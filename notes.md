@@ -513,3 +513,49 @@
   - But it doesn't look like large inequalities lead to political instability?
   - Fear of a permanent aristocracy.
   - Inequality may be on the rise, but there's a danger of extrapolating that too far out
+
+# Class 14: Inequality and mobility
+
+- Mobility affects intergenerational economic prospects
+  - How well people do compared to their parents
+  - American mobility is limited:
+    - parent household earnings (x) by child earnings (y) looks like a log curve.
+    - parent income rank by parent income rank looks mostly linear
+      - Those born into the bottom two deciles of income are likely to rise up to fourth decile
+      - Those born into the top are likely to drop a few deciles
+    - Mobility for white people in the US is declining
+    - Varies a lot across regions in the US. Worst mobility in the deep south. Best mobility in upper midwest and mountain states
+  - Mobility in some other high-income countries exceeds the US (Italy and UK exceed US in mobility, we exceed everyone in inequality)
+    - Americans tend to believe there's more mobility than europeans (optimistic)
+- Why inequality is widening
+  - Guesses:
+    - Skill-biased technological change versus the speed and effectiveness of education
+    - International competition (especially China and India). Labor share in largest economies is shrinking.
+    - Skill-biased immigration (US is middle of peers in selecting high education immigrants)
+    - Assortative mating plus increasing participation of women in the labor force
+    - Development of a winner take all economy
+  - US specific guesses (Prof. Friedman is skeptical of these because widening inequality is a worldwide phenomenon):
+    - Eroding real value of the minimum wage
+    - Disappearance of labor unions
+    - Weakness of corporate governance
+- What can be done about it?
+  - Skill-biased technological change v the speed and effectiveness of eduction:
+    - More education in the conventional sense (increase high school graduation rate, more people going to college)
+    - Job (re)training. Industrial apprenticeships for students and reskilling programs for adults. Difficult because K-12 education largely belongs to school boards, so implementation is tough.
+    - Pre-K education. Early language experience is highly imbalanced among children by parent economic class. Pre-school programs have the highest economic return to human capital investment. (All are positive, but returns decay by age)
+  - International competition (with China and India):
+    - Barriers to international trade (if retaliation isn't at the same level).
+    - Trade adjustment assistance (for people displaced by change)
+    - Wait for demographics to change. Population growth is slowing, and China's one child policy was devastating for age balance.
+  - Skill-biased immigration:
+    - Reduce immigration overall
+    - Change the skill bias away from low-skilled workers toward high-skilled workers
+  - Increasing role of women in the labor force and assortative mating:
+    - lol
+  - Development of a winner take all economy:
+    - Increased taxes at the very top of the income/wealth scale
+  - US-specific concerns:
+    - Real value of minimum wage: Raise the minimum wage. Evidence suggests minimum wage increases don't affect employment as much for marginal changes. Big changes are still unknown.
+    - Disappearance of labor unions: Shift balance of regulation on union organization.
+    - Weakness of corporate governance: require greater transparency in top level corporate compensation (make say on pay binding)
+  - What if none of that works? Backup option is just tax and transfer (generally unpopular in the US)
