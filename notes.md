@@ -36,9 +36,7 @@
   - Malthus focused on land as a fixed/limiting factor of production. Was concerned we'd have enough to eat.
     - Solow (what we use) considers economic production as unlimited. No fixed factor of production.
 - What determines growth in factors of production, and what affects change in techology:
-
-  - Labor:
-
+  - Labor
     - Age structure. What is working age?
       - Child labor basically vanished by WWII.
       - Retirement rates peaked around 1980 and have risen since.
@@ -48,9 +46,7 @@
     - How long:
       - Economics: how much people work (wages, tax rate, education, cultural norms)
         - Americans don't work more per year than the world aggregate, but we work more than other rich countries.
-
   - Human capital:
-
     - Education builds human capital (public and private).
       - 1900s established near universal high school eduction in the US.
         - GDP per capita is highly correlated with years of schooling. (goes both ways)
@@ -60,7 +56,6 @@
         - American universities underperform peers both at the top 200 and across all quartiles.
         - Almost 3/4 of Chinese universities would be in the top quartile of American universities.
         - But most developing countries still underperform the US. (disadvantage on both quantity and quality)
-
   - Physical capital:
     - Human capital is correlated with GDP per capital (both ways)
     - Determinants:
@@ -559,3 +554,78 @@
     - Disappearance of labor unions: Shift balance of regulation on union organization.
     - Weakness of corporate governance: require greater transparency in top level corporate compensation (make say on pay binding)
   - What if none of that works? Backup option is just tax and transfer (generally unpopular in the US)
+
+# Class 15: Education - problem or solution
+
+- Readings:
+  - Goldin and Katz: observes widening in wage inequality. Increasing skill premiums in the labor market are because technological skill demands are progressing faster than the education system keeps up.
+  - Kreuger and Whitmore: Tennessee study
+  - Fredriksson: also on Tennessee study
+  - Autor: Extends Goldin and Katz. How skill development in the labor force affects income inequality.
+  - Chetty: $320k kindergarten teacher
+  - Schanzenbach: Social skills and how they affect human capital.
+  - Deming: ...
+- Contribution of human capital to the economy
+  - Production is a function of physical capital, human capital, and labor.
+  - Wage relative to no schooling shows a clear progression. College degrees earn on average 4x of no education
+  - In developing world, about 21 percent of people still had no education at all
+  - Log-linear relationship between years of education and gdp per capita. US has very high average years of schooling.
+  - Of education and output, which drives which? Likely two-way causation. Virtuous cycle.
+- Education production function: resources and outcomes in K-12 education
+  - Difficult in US to identify a relationship in inputs to education and student outcomes
+  - Educational production function: f(Inputs) -> Outputs
+  - Desired outputs:
+    - Virtue and citizenship (difficult to quantify)
+    - Knowledge (test scores)
+    - Cognitive ability (SAT, ACT, etc.)
+    - Non-cognitive ability / social skills
+    - Labor market success
+    - Avoiding life pathologies
+  - Inputs:
+    - Genes, family situation, neighborhood, etc. (difficult to control)
+    - Teachers: quantity and quality
+    - Facilities: buildings, labs, etc.
+    - Dollars spent (on what)
+    - Curriculum
+    - Testing (whether is matters)
+  - Investment in education
+    - Per pupil spending has grown substantially since the 1950s (5x growth inflation adjusted)
+    - Pupil/teacher ratio has fallen sharply since the 1950s (half what it was in the 50s)
+    - Overall, we're putting a growing amount into it
+  - Reading, math, and science test outcomes haven't changed a ton since 1950 (not nearly consistent with spending)
+    - Fourth grade math scores improved 1990 to 2010. Fallen since 2010. Strong predictor of economic outcomes.
+    - Most measures have stayed flat or peaked around 2014. Outcomes since the pandemic have sharply fallen.
+  - Difficulty identifying macro-level effect on resource inputs to student outcomes
+  - More persuasive micro-level research:
+    - Tennessee STAR experiment
+      - Divided teachers and students into large and small class sizes as a double blind study
+      - Showed smaller class sizes make a difference on test scores, especially for younger grades.
+      - Being in a small class raised percent of students taking the ACT/SAT.
+    - Court ordered spending equalization:
+      - Small increase in number of years of schooling
+      - Moderate increase in expected earnings
+      - Reduction in likelihood of living in poverty
+    - Strong evidence that teacher quality matters in Kindergarten
+      - Showed impact on test scores when a high value teacher moves to a school
+      - Having a high quality kindergarten teacher mattered substantially for going to college and lifetime earnings
+      - 75th percentile teacher v. 25th percentile teacher showed a discounted lifetime earnings difference of $320k
+      - Good v. bad teachers affects absences, suspensions from school, grade repetition, and school completion.
+    - Reasons for caution:
+      - Declining cost-effectiveness of any kind of education with age
+        - Heckmann curve: early investments matter a lot more
+      - Schools only seem to account for about 1/3 of measured cross-student performance
+    - Head start:
+      - Pre-school programs have a positive impact on high school completion, taking the SAT, going to college, marriage, avoiding high school discipline, avoiding arrests, avoiding juvenile incarceration.
+      - But they don't show up much in test scores.
+- Cognitive and noncognitive skills
+  - Evidence suggests noncognitive skills are really important
+    - High school graduation rates are just as related to socioemotional capability as cognitive ability
+    - People in higher noncognitive skill brackets are more likely to graduate high school and get a postsecondary degree
+    - People with higher noncognitive skills tend to earn more (bottom side of noncognitive is most damaging)
+    - Cognitive skills are somewhat correlated to noncognitive skills (but they're not tightly correlated)
+  - Evidence suggests social skills are becoming more important
+    - Task intensity of service and social tasks has grown over time
+    - Wage growth order over time: high social high math, high social low math, low social high math, low social low math
+  - Evidence suggests social skills can be taught
+    - Questionable study suggests corrective program for disruptive students improved outcomes
+    - Alcoholism is much more correlated with socioemotional than cognitive capability
