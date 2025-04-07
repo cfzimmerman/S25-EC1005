@@ -629,3 +629,57 @@
   - Evidence suggests social skills can be taught
     - Questionable study suggests corrective program for disruptive students improved outcomes
     - Alcoholism is much more correlated with socioemotional than cognitive capability
+
+# Class 16: Elementary and high school education
+
+- Differences in educational performance appear early
+  - Covid widened educational performance gap between bottom and top (but everyone went down)
+  - US has the largest peer gap between 90th and 10th percentile for fourth-grade math
+- They carry into adulthood
+  - US has the largest peer gap in adult numeracy, and it's widening
+  - 10th percentile dropped low end adult numeracy substantially
+  - Adult literacy fell even further after 2018
+- Differences are strongly intergenerational
+  - Vast majority of high achieving students have parents with a bachelor's degree. 50 percent with a graduate degree.
+  - Measured time fathers and mothers spend in developmental time with children is going up
+    - But it differs by education (with language experience data, suggests not just genetics)
+  - Computer usage increases by family income, and wealthier children are much more likely to use a computer for learning
+  - Racial differences are also significant. Age 9 math scores for low income students show white students outperforming black students
+    - Evanston Township HS shows stats on junior math performance: decline after pandemic. Performanc GtL: white -> disabled -> hispanic -> black -> low income
+  - Racial differences are less pronounced over time
+  - But intergenerational income differences are becoming more pronounced (90th over 10th percentile scores)
+- Some evidence that inequality itself affects human capital
+  - Loose evidence that higher income inequality corresponds to a higher 90/10 gap (aside, largest group in poverty in the US is children)
+
+# Class 16: Higher education - access v. mobility
+
+- In general, the more accessible an education is, the less mobility it offers
+- US colleges have become much more segregated by ability
+- Ranking student readiness by institutional resources:
+  - In 1960, mostly flat, but the high end shows best students going to wealthest institutions.
+  - Now, extremely linear relationship between best scoring students and institutional wealth.
+    - Application effect: Partially due to people being more willing to travel far for college
+      - Linear increase since 1950 in high ability student willingness to travel +250 miles from home for college
+  - So, more higher ed resources are devoted to the most promising students
+    - Median SAT by resources per student shows an exponential relationship
+  - Matters for student outcomes. College median SAT has a linear relationship with postgrad earnings.
+  - Many promising students from low-income families could attend better colleges.
+    - U-shaped relationship between university competitiveness and cost of attendance.
+    - So high end colleges are within reach, but many of those students just don't apply.
+- College attendance
+  - Gender is now more significant than race. Women are more likely to attend college.
+  - Also selects by income. Ex: Harvard heavily selects from students in the top income quintile.
+  - American colleges are as segregated by family income as census tracts are.
+  - Ivy League graph of parent income and percentage of students looks deeply exponential.
+    - Controlled for SAT score, wealthier students are still more likely to go to an Ivy
+  - Percent of low income students at Harvard hasn't changed much since 2000
+- Outcomes
+  - Selective college graduates tend to make substantially more
+  - Waitlist natural experiment suggests Ivy attendance matters, not just selection bias
+  - Percent of people reaching top 1% by SAT score shows ability matters (higher SAT suggests higher likelihood of reaching top 1%). High school GPA doesn't seem to contribute more than SAT.
+  - Consider specific colleges:
+    - Definitions:
+      - Access: percent with parent income in bottom quintile
+      - Success: probability that a student with bottom quintile parents will reach the top quintile
+    - Colleges with the highest success rates tend to have the lowest access
+  - Parent income doesn't matter nearly as much as career choice.
