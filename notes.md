@@ -651,7 +651,7 @@
 - Some evidence that inequality itself affects human capital
   - Loose evidence that higher income inequality corresponds to a higher 90/10 gap (aside, largest group in poverty in the US is children)
 
-# Class 16: Higher education - access v. mobility
+# Class 16: Higher education - solution or problem
 
 - In general, the more accessible an education is, the less mobility it offers
 - US colleges have become much more segregated by ability
@@ -681,5 +681,42 @@
     - Definitions:
       - Access: percent with parent income in bottom quintile
       - Success: probability that a student with bottom quintile parents will reach the top quintile
+      - Mobility rate: access times success rate
+      - Finding: there's a trade-off between access and success
     - Colleges with the highest success rates tend to have the lowest access
-  - Parent income doesn't matter nearly as much as career choice.
+  - Parent income doesn't matter nearly as much as career choice for income.
+  - Ivy league skews more highly on parent income than top SAT scores
+  - Harvard is highly unequal. It's very slowly getting more equal. Students from low income families do really well after graduation.
+
+# Class 17: The "Deep History" of economic growth
+
+- Readings:
+  - Landes book
+  - Acemoglu and Robinson: role of political institutions and growth
+  - Glaeser: Argues opposite of Acemoglu.
+  - Mokyr: Role of culture in economic growth.
+  - Enke: Personal trust and social capital.
+  - Nunn: Economic history of slavery
+- Growth and democracy
+  - Some positive relationship between freedom and GDP
+  - Another positive relationship between growth and GDP
+  - Approaches for low income dictatorships -> high income democracies
+    - Growth strategy
+      - Grow a dictatorship, then democratize
+      - Growth means structural change, which broadly changes attitudes
+      - Development usually brings greater openness to the outside world
+      - Greater resources might alleviate sources of conflict (unconvincing). Or, divisible resources bring conflict, but conflict resolution and compromise builds democracy
+    - Political reform strategy
+      - Put good institutions in place, then growth will rise organically
+      - Political institutions might matter: constraints on executive and legislative powers, legitimacy and meaningfulness of elections
+      - Factor accumulation: secure property rights and freedom of allocative choices accumulate
+      - Intellectual institutions might promote human capital with growth from ideas and innovation
+- Political and economic institutions
+  - Acemoglu and Robinson on institutions:
+    - Institutions lead to economic success and failure
+      - Rule of law, property rights, absence of economic distortions
+    - Arguing against physical geography and culture
+    - Empirical strategy:
+      - Differing outcomes for countries that were colonized.
+      - Climate patterns drove different settlement patterns.
+      - Residential colonization produced different institutions than extractive colonization
