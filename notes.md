@@ -688,7 +688,7 @@
   - Ivy league skews more highly on parent income than top SAT scores
   - Harvard is highly unequal. It's very slowly getting more equal. Students from low income families do really well after graduation.
 
-# Class 17: The "Deep History" of economic growth
+# Class 17 and 18: The "Deep History" of economic growth
 
 - Readings:
   - Landes book
@@ -719,4 +719,56 @@
     - Empirical strategy:
       - Differing outcomes for countries that were colonized.
       - Climate patterns drove different settlement patterns.
-      - Residential colonization produced different institutions than extractive colonization
+      - Residential colonization produced different institutions than extractive colonization.
+    - Negative correlation between expropriation risk and GDP
+    - Today's GDP per capita is negatively correlated with settler death rates.
+      - Ex: American colonists had a much lower death rate compared to Nigeria.
+    - Proposed link:
+      - Low mortality settler colonization led to more favorable institutions with economic rights and freedoms.
+      - High mortality extractive colonization led to less favorable institutions.
+      - So, favorable institutions favor economic growth.
+    - Supports political reform strategy
+  - Questions:
+    - Is this different from the Jeff Sacks hypothesis that climate and geography are major forces?
+    - What if the colonizer's culture matters more? For example, British colonies fared much better than the Spanish.
+    - Are property rights really fixed "institutions", or are they just outcomes?
+    - How related are property rights to democracy/dictatorship? Ex: South Korea and Singapore
+    - This doesn't include anything about human capital
+    - It also ignores social capital
+  - Criticisms by Glaeser et. al.
+    - "Institutions" like rule of law, secure property rights, etc., aren't equivalent to democracy/dictatorship.
+    - Some dictatorships have economic success, and some democracies don't
+    - What mattered about settlers is the human capital they brought with them
+      - Evidence flips in the other direction to contradict Acemoglu and Robinson
+    - What matters for economic growth is the factors of production in physical and human capital (Smithian growth)
+      - More broadly, inclination towards education matters (culture)
+
+# Class 18: History of economic growth - slavery and culture
+
+- Slavery:
+  - Background
+    - Slave trade was giant. Moved 15 million people
+    - Countries with the most people taken per area are poorer today (long term damage in Africa too)
+    - Manner of enslavement: about half kidnapped, the rest taken in war, sold by a friend, or taken through a judiciary
+  - Economic consequences for countries left behind:
+    - Ethnic factions: Villages raided one another to capture slaves
+    - Political factions: Civil wars
+    - Judicial distrust: People didn't trust courts because they enslaved people
+  - Nunn's hypothesized mechanism: trust
+    - Trust in relatives, friends, other groups, same group, and government
+    - Areas in Africa with less slave loss have much higher trust today
+    - How to determine causality? Distance to the coast.
+      - Coastal areas were more likely to be enslaved. Mostly sub-Saharan west coast
+    - Evidence that areas with large slave capture have lower trust
+- Culture:
+  - Mokyr hypothesis: knowledge is a driver of economic growth
+    - Industrial revolution was also an Industrial Enlightenment
+      - Practically-oriented creation, accumulation, dissemination of knowledge
+    - Claim: Industrial Enlightenment preceded the Industrial Revolution
+    - Intellectual property rights are a uniquely western idea
+      - Attaches status to science/knowledge, especially when successful
+      - Incentivizes invention and innovation
+    - Coherence among scientific inquiry, freedom of expression, and religious tolerance (culture)
+    - Intellectual institutions: scientific societies, informal gatherings, encyclopedic projects, British patent protection, and university professorships
+    - Economic institutions: proletariat labor force, a skilled artisan class, no internal trade barriers, and well developed coastal shipping
+    - Conclusion: Industrial Revolution was driven by the Industrial Enlightenment and was driven by Schumpeterian growth rather than Smithian growth
