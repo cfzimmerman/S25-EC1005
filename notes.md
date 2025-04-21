@@ -21,7 +21,7 @@
       - Growth estimates may also miss goods that aren't priced (access to information is likely more valuable than just Google Ad revenue). Airplane safety is another example.
   - Just because economic growth has happened doesn't mean it will happen in the future.
     - US growth rate now is meaningfully lower now than before GFC (worst downturn since Great Depression). 1960 to 2007 line is totally different than since then (was much higher).
-    - Inflation adjusted, 2007 median family income was $87k v 2023 at $101k. Using 1960-2007 trend estimates 2023 income of $125k. Nationally, a difference of $6.9 trillion
+    - Inflation adjusted, 2007 median family income was $87k v. 2023 at $101k. Using 1960-2007 trend estimates 2023 income of $125k. Nationally, a difference of $6.9 trillion
   - Even within a country, not everyone participates or benefits equally (at all) in economic growth.
 
 # Class 3
@@ -318,7 +318,7 @@
 
 # Class 10: continued
 
-- Employment v non-work
+- Employment v. non-work
   - Standard consumption/labor model:
     - Assume what people desire in life.
     - Balance the utility of consumption and leisure.
@@ -482,7 +482,7 @@
     - Acemoglu and Restrepo: model for balancing investments in labor and capital. Technology can automate or augment labor. Traditionally there was more augmentation, there's increasingly more automation.
     - Mokyr: Era of sustained growth after 1750 from innovation, better institutions, and resource allocation. Positive feedback loops in growth. Traditional productivity metrics understate recent progress.
   - Inequality:
-    - How we measure it: compare income distributions (90th percentile v 10th percentile); wealth shares (wealth owned by 1%), Gini Coefficient (x percent of population, y percent of income). 0 Gini is perfect equality, 1 is perfect inequality.
+    - How we measure it: compare income distributions (90th percentile v. 10th percentile); wealth shares (wealth owned by 1%), Gini Coefficient (x percent of population, y percent of income). 0 Gini is perfect equality, 1 is perfect inequality.
     - Kuznets: curve x GDP per capita, y income inequality (sus?). Inequality increases before it decreases during growth. Stronger past evidence, less modern evidence.
     - Williamson: does industrialization raise inequality? Historical context. Could Kuznet's curve work?
     - Piketty: documents that inequality has risen in the US by a lot since the 1980s. Focus on return on capital rather than just income. Periods of higher return on capital over economic growth increases inequality. Self reinforcing cycle of inheritance. Inequality is political (capital taxes are lower than labor taxes)
@@ -534,7 +534,7 @@
     - Disappearance of labor unions
     - Weakness of corporate governance
 - What can be done about it?
-  - Skill-biased technological change v the speed and effectiveness of eduction:
+  - Skill-biased technological change v. the speed and effectiveness of eduction:
     - More education in the conventional sense (increase high school graduation rate, more people going to college)
     - Job (re)training. Industrial apprenticeships for students and reskilling programs for adults. Difficult because K-12 education largely belongs to school boards, so implementation is tough.
     - Pre-K education. Early language experience is highly imbalanced among children by parent economic class. Pre-school programs have the highest economic return to human capital investment. (All are positive, but returns decay by age)
@@ -772,3 +772,33 @@
     - Intellectual institutions: scientific societies, informal gatherings, encyclopedic projects, British patent protection, and university professorships
     - Economic institutions: proletariat labor force, a skilled artisan class, no internal trade barriers, and well developed coastal shipping
     - Conclusion: Industrial Revolution was driven by the Industrial Enlightenment and was driven by Schumpeterian growth rather than Smithian growth
+
+# Class 19: History of Growth - Landes and social capital
+
+- Landes
+  - Why did the industrial revolution take place in Europe and not China
+    - Geography: China's central flood plain v. Europe's mountain chains. China had more centralized governance to manage agriculture
+    - China had a state monopoly on knowledge and technology, while Europe had political and intellectual diversity
+    - Europe's only attempt at a China-like state is Rome
+  - Coleman/Putnam hypothesis: "Social capital" produces better public outcomes
+    - Social capital enhances efficiency
+    - External rule enforcement has costs, so internal enforcement is efficient
+      - Prisoner's dilemma
+    - Representative element of social capital is "trust"
+      - Greater trust gives easier economic exchange, higher specialization, residential mobility, and knowledge exchange
+      - Trust in people is correlated with government efficiency, less corruption, bureaucratic quality, tax compliance, better infrastructure, high school graduation, etc
+    - US is relatively high trust
+- Social capital
+  - Where does trust come from?
+    - Common view: it's evolutionary
+    - Enke models historical kinship patterns of "loose" v. "tight" kinship in a society defined by...
+      - Nuclear v. extended family residence
+      - Couples' post-wedding residence
+      - Unilinear v. bilateral descent
+      - Segmented communities v. clan structure of society
+    - Consequences of lose v. tight kinship patterns
+      - Universal v. community centered values
+      - Altruism v. revenge punishment
+      - Morality-based religion
+      - Self-focused emotions of guilt v. shame
+- Growth and inequality
