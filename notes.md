@@ -801,4 +801,55 @@
       - Altruism v. revenge punishment
       - Morality-based religion
       - Self-focused emotions of guilt v. shame
-- Growth and inequality
+
+# Class 20: History of Growth - Inequality and Philosophy
+
+- How does inequality affect growth?
+  - Possible enhancements:
+    - Smith: high income people save, and their savings lead to capital investment.
+      - If incomes are equal, then everyone is relatively poor and won't save much. No investment and therefore no capital accumulation and growth.
+      - Similar for human capital. If everyone is equally poor, nobody can afford to educate their children. Less human capital hurts growth.
+      - Smith arguments mostly apply to very low-income economies. Above subsistence, arguments are less convincing.
+        - Many low-income countries have high savings rates
+        - Doesn't apply when there are foreign sources of financial investment
+  - Reverse (equality possibly enhances growth):
+    - Proposed:
+      - Smith: too much inequality reduces the incentive to save and invest
+      - Equality leads to political stability, which makes a better climate for capital investment
+      - Less fear of high taxation and radical redistribution also assures capital investment
+      - Greater longevity incentivizes human capital investments
+      - Increased female secondary education, slower population growth
+      - More equal incomes gives broader consumer markets and easier development of import-substituting industries
+    - Again, these don't apply very well after a certain level of growth.
+    - They also don't apply in stable democracies.
+  - Conclusion: we don't know how inequality affects growth in most mid and high income countries.
+- Discovering the idea of progress: Hume/Smith view of the progress of human institutions
+  - Starting point: the central role of scarcity in human relations
+  - Human institutions like commerce are a partial remedy (specialized production + voluntary exchange)
+    - Efficiency in meeting human needs and desires
+    - Some form of justice
+  - Where did human institutions like commerce come from?
+    - They evolved over time. They came before Darwin but had a sense of historical change.
+    - Evolution of economic institutions influenced political institutions
+      - Enlightenment presumed that benevolent economic evolution implied benevolent political evolution
+        - Scientific progress -> economic progress -> moral, social, and political progress
+  - Contrast enlightenment view with prior western thought
+    - Greeks and Romans:
+      - Hesiod believed that humans were descending from a prior golden age
+      - Cyclical view of human history
+      - Aristotle and Lucretius believed knowledge was cumulative, but knowledge didn't have economic effects
+    - Medieval period
+      - Cyclical view of history
+      - But Joachim of Fiore was an exception, he sounded very similar to Hume
+    - Renaissance
+      - Idealized the classical period (backward-looking again)
+  - What changed in the 1700s?
+    - Renaissance was over. Europe had rediscovered its history, but infatuation with classical culture ebbed
+    - Scientific revolution: Copernicus, Newton, Galileo, Leibnitz, Boyle, Kepler, Pascal, Gutenberg, etc.
+    - Beginnings of industrial revolution:
+      - Newcomen and Watt: steam engine
+      - Hargreaves and Cartwright: spinning jenny and power loom
+      - Implies accumulation of scientific knowledge has practical consequences
+    - Europeans meeting Native Americans piqued interest in economic evolution and their own history
+      - Decided America matched a previous era of European development
+    - Revival of Christian millennialism: human advance is both material and spiritual, the advance is inevitable, the advance proceeds in stages, advance relies on natural forces, human agency is an essential part of those forces, and knowledge is central to this role
