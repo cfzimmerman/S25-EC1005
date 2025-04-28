@@ -853,3 +853,68 @@
     - Europeans meeting Native Americans piqued interest in economic evolution and their own history
       - Decided America matched a previous era of European development
     - Revival of Christian millennialism: human advance is both material and spiritual, the advance is inevitable, the advance proceeds in stages, advance relies on natural forces, human agency is an essential part of those forces, and knowledge is central to this role
+
+# Class 20: History of Growth - Smith, growth, and progress
+
+- Smith's view of human progress: "Four Stages" theory
+  - Hunter gatherer -> shepherds -> agriculture -> commerce
+  - Explicit link between economic and political arrangements
+    - "laws and policy" differ by "mode of subsistence"
+  - Interested in property rights
+    - What gave Europeans the right to claim property in America?
+    - Locke argued that Europeans "improved" the land, which gave them a right to it.
+  - Quotes:
+    - "Property and civil government very much depend on one another"
+    - "Till there be property there can be no government"
+  - Gave a dynamic, self-contained theory of how "mode of subsistence" transitions occur
+    - Scarcity: population expansion against limited land production triggers knowledge acquisition, which causes transitions
+      - Ex: Learning to domesticate animals in response to over-hunted wildlife
+    - Behavioral theory of progress where advances in knowledge are cumulative and irreversible
+  - Theory of progress in political institutions too
+    - Property laws differ across the stages
+      - Shepherding: claims to animals and pastures, communal defense
+      - Agriculture: claims to planting rights, land usage, defense of harvested produce
+      - Commerce: weights and measures, monetary exchange, contract enforcement
+  - Progress in knowledge -> economic progress -> governance progress
+    - Without change in human nature
+    - Without centralized direction (driven by self-interest)
+    - But can be sped or slowed by political institutions
+  - Is it a theory of growth?
+    - Knowledge is irreversible. There's increasing population and living standards
+    - But not a modern theory of economic growth
+      - "commerce" is the last stage, nothing further
+      - Within commerce, further gains to productivity only come from increasing labor specialization
+      - Misses the essential notion of modern "technical progress"
+  - Note: Smith recognized downside of increasing division of labor
+    - Specialization causes skill and intellectual atrophy. Monotonic work degrades people.
+    - Produces a poor living standard for the "laboring poor"
+    - Smith's solution: government-provided universal education
+  - Foundation of 18th century view of progress
+    - Vocabulary of "discovery", "advance", "progression", "improvement"
+    - Progress was integrated across political, moral, intellectual, and economic dimensions
+  - Dissenting view from Russeau
+    - This progression is a bad thing.
+    - Height of human existence was before settled agriculture. Wage slavery after that.
+    - Classic statement of opposition to modernity
+    - Spirit of Thoreau-style environmentalism
+- Growth and internal distribution: Galbraith - The Affluent Society
+  - Surprise American growth after WWII. No post-war relapse into depression.
+  - Mid-1950s realization that growth wasn't temporary
+  - Avoided distribution between rich and poor
+  - Focused on distribution between the public and private sectors
+    - "private opulence" and "public squalor"
+    - Systematic bias towards private consumption driven by supplier advertising, not consumer demand (minority view)
+    - Simultaneous "new demands on public services" from postwar baby boom
+  - Misses role of private philanthropy funding public goods
+  - What balance should we seek between private and public consumption, and what's the best way to achieve it?
+- Growth and external distribution: Rawls - The Law of Peoples
+  - What is the moral "duty of assistance" to societies other than our own?
+    - We have a moral duty that goes beyond our self interest
+    - Duty to enable "burdened societies" to become well-ordered
+    - Not about equal income or wealth: "inequalities are not always unjust"
+    - Equalizing income and wealth is neither necessary nor sufficient to satisfy our moral obligation
+  - Three assumptions:
+    - Existence and integrity of nation states as separate societies is a given
+    - There are material prerequisites for "well-ordered" societies:
+      - The extremely poor can't be expected to become well-ordered. They're a "target of assistance"
+    - Different societies have different resources, but they're less important than culture and institutions
