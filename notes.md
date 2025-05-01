@@ -918,3 +918,32 @@
     - There are material prerequisites for "well-ordered" societies:
       - The extremely poor can't be expected to become well-ordered. They're a "target of assistance"
     - Different societies have different resources, but they're less important than culture and institutions
+
+# Final Review
+
+- Education
+  - Human capital and the economy
+    - Human capital depends on capital, labor, and human capital
+    - Education increases human cycle, creating a virtuous cycle of higher education and higher income
+  - Outcomes are knowledge, cognitive and non cognitive skills, labor success, civic behavior
+  - Evidence:
+    - Mixed macro level evidence on spending impact
+    - Strong micro level evidence of spending impact (Tennessee STAR)
+    - Teacher quality makes a big difference ($320k teacher)
+  - Preschool shows strong long term effects on further education, life outcomes, but NOT test scores
+    - Caveat: cost effectiveness of interventions declines with age
+  - Non-cognitive skills:
+    - Increasingly values in the labor market
+    - Correlated with fewer school absences, lower suspension, greater high school completion
+    - Social skills can be taught - strong policy implications
+  - Inequality
+    - Early gaps: cognitive differences emerge young and persist into adulthood
+    - Driven by family income more than race
+    - Intergenerational income mobility is declining
+    - Evidence that inequality itself affects outcomes
+  - Higher ed
+    - Segregation by ability: elite colleges serve mostly high income students
+    - Low income students are underrepresented because many capable students don't apply
+    - Mobility metrics are access, success rate, and (mobility rate = access \* success rate)
+    - Trade off between access and success. Colleges can excel at one but not both.
+  - Continued on slides
