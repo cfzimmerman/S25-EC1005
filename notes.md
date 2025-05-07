@@ -923,8 +923,8 @@
 
 - Education
   - Human capital and the economy
-    - Human capital depends on capital, labor, and human capital
-    - Education increases human cycle, creating a virtuous cycle of higher education and higher income
+    - Growth depends on capital, labor, and human capital
+    - Education increases human capital, creating a virtuous cycle of higher education and higher income
   - Outcomes are knowledge, cognitive and non cognitive skills, labor success, civic behavior
   - Evidence:
     - Mixed macro level evidence on spending impact
